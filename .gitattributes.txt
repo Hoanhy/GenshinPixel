@@ -1,0 +1,12 @@
+# Mặc định tất cả file văn bản
+* text=auto
+
+# Cụ thể một số loại file
+*.sh text eol=lf
+*.bat text eol=crlf
+*.yaml text eol=lf
+
+# Nhị phân (không thay đổi)
+*.png binary
+*.jpg binary
+*.dll binary
