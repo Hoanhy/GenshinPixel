@@ -1,0 +1,29 @@
+[33m69fffa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{0}: checkout: moving from testTA to develop
+[33mac92cf0[m[33m ([m[1;32mtestTA[m[33m)[m HEAD@{1}: checkout: moving from develop to testTA
+[33m69fffa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{2}: checkout: moving from testTA to develop
+[33mac92cf0[m[33m ([m[1;32mtestTA[m[33m)[m HEAD@{3}: commit: Lưu thay đổi tạm thời trước khi chuyển nhánh
+[33mbea54e8[m[33m ([m[1;31morigin/testTA[m[33m)[m HEAD@{4}: checkout: moving from develop to testTA
+[33m69fffa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{5}: checkout: moving from testTA to develop
+[33mbea54e8[m[33m ([m[1;31morigin/testTA[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33mbea54e8[m[33m ([m[1;31morigin/testTA[m[33m)[m HEAD@{7}: checkout: moving from main to testTA
+[33m5dbb120[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from main to main
+[33m5dbb120[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: pull: Fast-forward
+[33m6e46b66[m HEAD@{10}: checkout: moving from develop to main
+[33m69fffa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{11}: commit: sua lai map
+[33m23afb66[m HEAD@{12}: pull origin main: Fast-forward
+[33m04d90d5[m HEAD@{13}: commit: cap nhat them map sanh
+[33md71a538[m HEAD@{14}: commit: Hoan thien map sanh
+[33m20a2575[m HEAD@{15}: pull origin main: Fast-forward
+[33ma951d0e[m HEAD@{16}: reset: moving to HEAD
+[33ma951d0e[m HEAD@{17}: checkout: moving from main to develop
+[33m6e46b66[m HEAD@{18}: commit (merge): up them map
+[33ma951d0e[m HEAD@{19}: merge develop: Fast-forward
+[33m704ae36[m HEAD@{20}: checkout: moving from develop to main
+[33ma951d0e[m HEAD@{21}: commit: them 1 ty map
+[33m44d2d73[m HEAD@{22}: commit: Thêm mới
+[33mcd15f2a[m HEAD@{23}: commit: day du an
+[33m75cb4ff[m HEAD@{24}: reset: moving to HEAD
+[33m75cb4ff[m HEAD@{25}: commit: Add .gitattributes
+[33m704ae36[m HEAD@{26}: reset: moving to HEAD
+[33m704ae36[m HEAD@{27}: checkout: moving from main to develop
+[33m704ae36[m HEAD@{28}: checkout: moving from master to main
